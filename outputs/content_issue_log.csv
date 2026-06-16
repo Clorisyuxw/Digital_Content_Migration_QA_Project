@@ -1,0 +1,319 @@
+Issue_ID,Content_ID,Issue_Type,Field,Issue_Description,Severity,Status
+QA001-40,041.txt,Missing Title,title,Page title is missing after migration.,High,Open
+QA001-41,042.txt,Missing Title,title,Page title is missing after migration.,High,Open
+QA001-42,043.txt,Missing Title,title,Page title is missing after migration.,High,Open
+QA001-43,044.txt,Missing Title,title,Page title is missing after migration.,High,Open
+QA001-44,045.txt,Missing Title,title,Page title is missing after migration.,High,Open
+QA001-45,046.txt,Missing Title,title,Page title is missing after migration.,High,Open
+QA001-46,047.txt,Missing Title,title,Page title is missing after migration.,High,Open
+QA001-47,048.txt,Missing Title,title,Page title is missing after migration.,High,Open
+QA001-48,049.txt,Missing Title,title,Page title is missing after migration.,High,Open
+QA001-49,050.txt,Missing Title,title,Page title is missing after migration.,High,Open
+QA002-0,001.txt,Missing Metadata,category,Content category metadata is missing.,High,Open
+QA002-1,002.txt,Missing Metadata,category,Content category metadata is missing.,High,Open
+QA002-2,003.txt,Missing Metadata,category,Content category metadata is missing.,High,Open
+QA002-3,004.txt,Missing Metadata,category,Content category metadata is missing.,High,Open
+QA002-4,005.txt,Missing Metadata,category,Content category metadata is missing.,High,Open
+QA002-5,006.txt,Missing Metadata,category,Content category metadata is missing.,High,Open
+QA002-6,007.txt,Missing Metadata,category,Content category metadata is missing.,High,Open
+QA002-7,008.txt,Missing Metadata,category,Content category metadata is missing.,High,Open
+QA002-8,009.txt,Missing Metadata,category,Content category metadata is missing.,High,Open
+QA002-9,010.txt,Missing Metadata,category,Content category metadata is missing.,High,Open
+QA003-10,011.txt,Invalid Category Mapping,category,Category value 'biz' does not match approved metadata values.,Medium,Open
+QA003-11,012.txt,Invalid Category Mapping,category,Category value 'biz' does not match approved metadata values.,Medium,Open
+QA003-12,013.txt,Invalid Category Mapping,category,Category value 'biz' does not match approved metadata values.,Medium,Open
+QA003-13,014.txt,Invalid Category Mapping,category,Category value 'biz' does not match approved metadata values.,Medium,Open
+QA003-14,015.txt,Invalid Category Mapping,category,Category value 'biz' does not match approved metadata values.,Medium,Open
+QA003-15,016.txt,Invalid Category Mapping,category,Category value 'biz' does not match approved metadata values.,Medium,Open
+QA003-16,017.txt,Invalid Category Mapping,category,Category value 'biz' does not match approved metadata values.,Medium,Open
+QA003-17,018.txt,Invalid Category Mapping,category,Category value 'biz' does not match approved metadata values.,Medium,Open
+QA003-18,019.txt,Invalid Category Mapping,category,Category value 'biz' does not match approved metadata values.,Medium,Open
+QA003-19,020.txt,Invalid Category Mapping,category,Category value 'biz' does not match approved metadata values.,Medium,Open
+QA003-20,021.txt,Invalid Category Mapping,category,Category value 'BUSINESS' does not match approved metadata values.,Medium,Open
+QA003-21,022.txt,Invalid Category Mapping,category,Category value 'BUSINESS' does not match approved metadata values.,Medium,Open
+QA003-22,023.txt,Invalid Category Mapping,category,Category value 'BUSINESS' does not match approved metadata values.,Medium,Open
+QA003-23,024.txt,Invalid Category Mapping,category,Category value 'BUSINESS' does not match approved metadata values.,Medium,Open
+QA003-24,025.txt,Invalid Category Mapping,category,Category value 'BUSINESS' does not match approved metadata values.,Medium,Open
+QA003-25,026.txt,Invalid Category Mapping,category,Category value 'BUSINESS' does not match approved metadata values.,Medium,Open
+QA003-26,027.txt,Invalid Category Mapping,category,Category value 'BUSINESS' does not match approved metadata values.,Medium,Open
+QA003-27,028.txt,Invalid Category Mapping,category,Category value 'BUSINESS' does not match approved metadata values.,Medium,Open
+QA003-28,029.txt,Invalid Category Mapping,category,Category value 'BUSINESS' does not match approved metadata values.,Medium,Open
+QA003-29,030.txt,Invalid Category Mapping,category,Category value 'BUSINESS' does not match approved metadata values.,Medium,Open
+QA003-30,031.txt,Invalid Category Mapping,category,Category value 'Business' does not match approved metadata values.,Medium,Open
+QA003-31,032.txt,Invalid Category Mapping,category,Category value 'Business' does not match approved metadata values.,Medium,Open
+QA003-32,033.txt,Invalid Category Mapping,category,Category value 'Business' does not match approved metadata values.,Medium,Open
+QA003-33,034.txt,Invalid Category Mapping,category,Category value 'Business' does not match approved metadata values.,Medium,Open
+QA003-34,035.txt,Invalid Category Mapping,category,Category value 'Business' does not match approved metadata values.,Medium,Open
+QA003-35,036.txt,Invalid Category Mapping,category,Category value 'Business' does not match approved metadata values.,Medium,Open
+QA003-36,037.txt,Invalid Category Mapping,category,Category value 'Business' does not match approved metadata values.,Medium,Open
+QA003-37,038.txt,Invalid Category Mapping,category,Category value 'Business' does not match approved metadata values.,Medium,Open
+QA003-38,039.txt,Invalid Category Mapping,category,Category value 'Business' does not match approved metadata values.,Medium,Open
+QA003-39,040.txt,Invalid Category Mapping,category,Category value 'Business' does not match approved metadata values.,Medium,Open
+QA004-50,051.txt,Truncated Content,content,Article body appears incomplete after migration.,High,Open
+QA004-51,052.txt,Truncated Content,content,Article body appears incomplete after migration.,High,Open
+QA004-52,053.txt,Truncated Content,content,Article body appears incomplete after migration.,High,Open
+QA004-53,054.txt,Truncated Content,content,Article body appears incomplete after migration.,High,Open
+QA004-54,055.txt,Truncated Content,content,Article body appears incomplete after migration.,High,Open
+QA004-55,056.txt,Truncated Content,content,Article body appears incomplete after migration.,High,Open
+QA004-56,057.txt,Truncated Content,content,Article body appears incomplete after migration.,High,Open
+QA004-57,058.txt,Truncated Content,content,Article body appears incomplete after migration.,High,Open
+QA004-58,059.txt,Truncated Content,content,Article body appears incomplete after migration.,High,Open
+QA004-59,060.txt,Truncated Content,content,Article body appears incomplete after migration.,High,Open
+QA005-6,007.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-213,214.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-214,215.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-239,240.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-252,253.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-253,254.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-255,256.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-257,258.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-259,260.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-264,265.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-291,292.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-332,333.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-353,354.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-355,356.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-370,371.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-415,416.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-446,447.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-493,494.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-512,003.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-532,023.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-548,039.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-552,043.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-555,046.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-558,049.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-577,068.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-582,073.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-583,074.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-588,079.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-591,082.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-595,086.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-597,088.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-605,096.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-611,102.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-612,103.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-614,105.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-636,127.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-638,129.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-642,133.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-647,138.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-651,142.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-654,145.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-667,158.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-671,162.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-688,179.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-725,216.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-738,229.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-744,235.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-759,250.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-770,261.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-781,272.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-782,273.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-817,308.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-837,328.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-840,331.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-843,334.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-844,335.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-847,338.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-850,341.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-859,350.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-865,356.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-900,005.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-902,007.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-916,021.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-938,043.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-954,059.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-964,069.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-972,077.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-978,083.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-983,088.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1002,107.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1003,108.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1006,111.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1012,117.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1018,123.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1036,141.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1070,175.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1112,217.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1113,218.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1118,223.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1121,226.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1148,253.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1160,265.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1180,285.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1182,287.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1186,291.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1188,293.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1193,298.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1195,300.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1205,310.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1206,311.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1208,313.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1216,321.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1232,337.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1236,341.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1237,342.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1244,349.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1246,351.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1249,354.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1251,356.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1254,359.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1324,012.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1332,020.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1364,052.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1396,084.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1493,181.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1494,182.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1538,226.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1544,232.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1564,252.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1567,255.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1569,257.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1570,258.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1601,289.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1644,332.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1647,335.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1656,344.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1718,406.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1720,408.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1742,430.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1744,432.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1748,436.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1750,438.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1826,003.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1827,004.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1831,008.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1832,009.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1835,012.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1837,014.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1842,019.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1844,021.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1845,022.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1848,025.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1850,027.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1855,032.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1859,036.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1862,039.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1863,040.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1864,041.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1865,042.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1866,043.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1867,044.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1868,045.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1870,047.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1871,048.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1874,051.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1878,055.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1882,059.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1885,062.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1886,063.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1887,064.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1889,066.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1890,067.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1898,075.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1902,079.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1904,081.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1906,083.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1912,089.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1913,090.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1917,094.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1918,095.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1919,096.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1921,098.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1926,103.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1941,118.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1949,126.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1951,128.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1952,129.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1954,131.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1955,132.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1956,133.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1970,147.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1972,149.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1978,155.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1979,156.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1982,159.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1985,162.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1986,163.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1988,165.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1989,166.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1990,167.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1992,169.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1994,171.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1998,175.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-1999,176.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2000,177.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2002,179.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2003,180.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2016,193.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2034,211.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2035,212.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2038,215.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2042,219.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2047,224.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2048,225.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2049,226.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2050,227.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2051,228.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2056,233.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2057,234.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2075,252.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2083,260.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2086,263.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2093,270.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2102,279.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2108,285.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2109,286.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2112,289.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2114,291.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2115,292.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2116,293.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2117,294.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2118,295.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2119,296.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2120,297.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2121,298.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2122,299.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2125,302.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2126,303.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2127,304.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2131,308.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2133,310.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2134,311.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2135,312.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2136,313.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2137,314.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2138,315.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2140,317.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2141,318.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2145,322.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2146,323.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2147,324.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2149,326.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2150,327.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2151,328.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2152,329.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2153,330.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2154,331.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2155,332.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2157,334.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2158,335.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2161,338.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2162,339.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2164,341.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2165,342.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2196,373.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2197,374.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2199,376.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2200,377.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2202,379.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2203,380.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2204,381.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2205,382.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2210,387.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2211,388.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2212,389.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2214,391.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2216,393.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
+QA005-2221,398.txt,Potential Duplicate Title,title,Title appears more than once and requires content review.,Low,Review Required
