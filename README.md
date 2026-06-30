@@ -126,7 +126,7 @@ Validated duplicate title records to distinguish:
 
 | Metric | Count |
 |----------|----------:|
-| Potential Duplicate Titles | 258 |
+| Potential Duplicate Titles | 60 |
 | True Duplicate Content Records | 196 |
 | Metadata Conflict Records | 2 |
 
